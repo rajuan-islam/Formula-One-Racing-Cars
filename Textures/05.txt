@@ -1,0 +1,7 @@
+1 -    Make the 't' key toggle whether textures are applied to the shapes.
+
+
+2 -    Using timers, make the texture continuously move along the surface of the triangle.
+
+
+3 -    Make or find your own bitmap file to use as a texture (the width and height should both be 64, 128, or 256). Apply it to the bottom face as a second texture, without changing the texture of the triangle in the back. 
